@@ -133,7 +133,7 @@ container.innerHTML = '<section>This is a section</section>';
 - **Shimprove**, in April 2010, patched `cloneNode` and `createElement` was later merged into `html5shiv`
 - **innerShiv**, introduced in August 2010 by JD Barlett, addressed dynamically adding new HTML5 elements into the DOM. [jQuery added support](http://blog.jquery.com/2011/11/03/jquery-1-7-released/) that made innerShiv redundant and `html5shiv` addressed the same issues as well, so the project was completed.
 - The **html5shim** and **html5shiv** sites on Google Code are maintained by Remy Sharp and are identical distribution points of this `html5shiv` project.
-- **Modernizr** is developed by the same people as `html5shiv` and can include the latest version in any custom builds created at modernizr.com
+- **Modernizr** is developed by the same people as `html5shiv` and can include the latest version in any custom builds created at [modernizr.com](http://modernizr.com).
 - This `html5shiv` repo now contains tests for all the edge cases pursued by the above libraries and has been extensively tested, both in development and production. 
 
 A [detailed changelog of html5shiv](https://github.com/aFarkas/html5shiv/wiki) is available.
